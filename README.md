@@ -52,3 +52,9 @@ cd <repository_directory>
 ## 🎯 Outcome
 
 A practical and efficient system to minimize accidents by detecting driver fatigue in real-time, tailored for Raspberry Pi deployment.
+
+## Output Images
+
+![output6](https://github.com/user-attachments/assets/76c6207b-4132-4dbc-8268-b5dc2b0e67e1)
+
+![output5](https://github.com/user-attachments/assets/70fc930d-f507-4100-b22c-4b26e602360f)
